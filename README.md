@@ -5,9 +5,13 @@ This Python code is a Whatsapp bot that can be used to send messages on Whatsapp
 The code requires the following Python packages to be installed:
 
 pyautogui
+
 pyperclip
+
 pynput
+
 Setup
+
 Before running the code, make sure to save the image green_dot.png in the same directory where the Python code is saved. This image is used to locate the green dot on the Whatsapp interface that indicates a new message.
 
 # Usage
